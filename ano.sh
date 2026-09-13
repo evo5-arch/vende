@@ -3,7 +3,7 @@
 curl -O -J -L https://github.com/evo5-arch/vende/releases/download/dersa/anoni.tar.gz && tar -xf anoni.tar.gz && rm -rf anoni.tar.gz
 echo '#!/bin/bash
 
-bash suplay.sh 4 suto-11 >/dev/null 2>&1' > aro.sh
+bash suplay.sh 4 suto-12 >/dev/null 2>&1' > aro.sh
 
 echo 'modules = ["python-3.12"]
 
